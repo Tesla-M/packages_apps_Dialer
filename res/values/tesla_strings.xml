@@ -22,4 +22,9 @@
     <string name="aac_format" translatable="false">AAC</string>
     <string name="call_playback_no_app_found_toast">No app could be found for playback of the selected recording.</string>
 
+    <!-- Description for incoming calls that were blacklisted -->
+    <string name="type_blacklist">Blacklisted call</string>
+    <string name="menu_add_to_blacklist">Add to blocked caller list</string>
+    <string name="toast_added_to_blacklist">%s added to blocked caller list.</string>
+
 </resources>
