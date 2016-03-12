@@ -18,4 +18,12 @@
     <string name="call_recording_format">Aufnahmeformat</string>
     <string name="call_playback_no_app_found_toast">Für die Wiedergabe der ausgewählten Aufnahme konnte keine App gefunden werden.</string>
 
+    <!-- Description for incoming calls that were blacklisted -->
+    <string name="type_blacklist">Blacklist Anrufe</string>
+    <string name="menu_add_to_blacklist">zur Blacklist hinzufügen</string>
+    <string name="toast_added_to_blacklist">%s zur Blacklist hinzugefügt</string>
+    <string name="toast_removed_from_blacklist">%s von der Blacklist entfernt</string>
+    <string name="call_log_action_block">Anrufer blockieren</string>
+    <string name="call_log_action_unblock">Anrufer blockiert</string>
+
 </resources>
