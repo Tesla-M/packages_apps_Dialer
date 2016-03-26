@@ -21,4 +21,16 @@
     <string name="call_log_action_block">Anrufer blockieren</string>
     <string name="call_log_action_unblock">Anrufer blockiert</string>
 
+    <!--  for speed dial -->
+    <string name="set_speed_dial">Kurzwahl Einstellungen</string>
+    <string name="dialog_title">Hinweis</string>
+    <string name="not_set">(nicht eingestellt)</string>
+    <string name="replace">ersetzen</string>
+    <string name="delete">löschen</string>
+    <string name="speed_call">Anruf</string>
+    <string name="speed_sms">Nachricht</string>
+    <string name="is_set_speed">Die Ziffertaste <xliff:g id="number">%s</xliff:g> ist nicht für Kurzwahl eingestellt, jetzt einstellen?\n</string>
+    <string name="dialog_speed_dial_airplane_mode_message" >"Um Kurzwahl anzurufen zuerst Flugzeugmodus abschalten"</string>
+    <string name="assignSpeedDialFailToast">Die Nummer wurde bereits einer Kurzwahl zugewiesen, bitte andere Nummer wählen.</string>
+
 </resources>
